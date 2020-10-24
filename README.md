@@ -8,7 +8,6 @@ Me chamo **Michael Ribeiro**, sou Estudante de Desenvolvimento Web 🚀, seja be
 - 📫 &nbsp;Como me encontrar: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pamela-caffa-b1272a116/)](https://www.linkedin.com/in/michaelsilvaribeiro/)
 
 <br />
-<br />
 
 
 **Tecnologias que estou estudando atualmente**
