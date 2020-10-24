@@ -1,7 +1,7 @@
-# Olá Pessoas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center"># Olá Pessoas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Me chamo Michael Ribeiro, sou Estudante de Desenvolvimento Web 🚀
+Me chamo Michael Ribeiro, sou Estudante de Desenvolvimento Web 🚀, seja bem-vindo ao meu github.
 
 - 👨🏽‍💻 Estou cursando Análise e Desenvolvimento de Sistemas
 - 
