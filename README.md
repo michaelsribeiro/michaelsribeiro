@@ -3,8 +3,9 @@
 
 Me chamo **Michael Ribeiro**, sou Estudante de Desenvolvimento Web 🚀, seja bem-vindo ao meu github.
 
-- 👨🏽‍💻 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Tenho experiência com HTML, CSS, Javascript e SQL.
+- 👨🏽‍💻 &nbsp;Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 &nbsp;Tenho experiência com HTML, CSS, Javascript e SQL.
+- 📫 &nbsp;Como me encontrar: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pamela-caffa-b1272a116/)](https://www.linkedin.com/in/michaelsilvaribeiro/)
 
 <br />
 <br />
