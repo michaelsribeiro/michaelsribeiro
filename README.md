@@ -7,7 +7,7 @@ Me chamo **Michael**, seja bem-vindo ao meu GitHub.
 
 - 👨🏽‍💻 &nbsp;Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 &nbsp;Tenho experiência com HTML, CSS e Javascript.
-- 📫 &nbsp;Como me encontrar: &nbsp; 
+- 📚 &nbsp;Atualmente estou focado nos estudos de Angular 8, Typescrypt e NodeJS.
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=michaelsribeiro&show_icons=true&theme=graywhite" /></a>
