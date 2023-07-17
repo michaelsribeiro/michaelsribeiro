@@ -1,4 +1,3 @@
-<p align="center"> 
-  <b>Profile Views</b><br/><br/>
-  <img src="https://profile-counter.glitch.me/michaelsribeiro/count.svg" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=michaelsribeiro&repo=michaelsribeiro&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=323&contentType=svg" height="40px" />
+</div>
